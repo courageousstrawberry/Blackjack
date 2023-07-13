@@ -1,0 +1,20 @@
+{
+  "files": {
+    "Deck": [
+      {
+        "id": "d093e05e-8a32-48b2-b2b4-bfd6580c4ad8",
+        "line": 4,
+        "version": 0,
+        "index": 49
+      }
+    ],
+    "Game.java": [
+      {
+        "id": "ad68d925-17ee-4e50-867f-08bdfe72864d",
+        "line": 28,
+        "version": 1939,
+        "index": 516
+      }
+    ]
+  }
+}
